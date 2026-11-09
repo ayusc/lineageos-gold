@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "",
+                        "oem": "",
+                        "device": "",
+                        "filename": "RisingOS-9-261109-0859-GAPPS-COMMUNITY-gold-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/gold/RisingOS-9-261109-0859-GAPPS-COMMUNITY-gold-ota.zip/download",
+                        "timestamp": 1794214635,
+                        "md5": "6d48d9f36e3fbae95372582b2a51623a",
+                        "sha256": "e566a9f4d8b7e4b3e1c0092923b693fa374767f1a75997ec44dbb026a5dd6f58",
+                        "size": 2885754880,
+                        "version": "9-elefthería",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}
